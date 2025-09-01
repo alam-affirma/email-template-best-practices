@@ -1,5 +1,6 @@
-<!-- title -->Tips and Best Practices to Create Email Templates
-<!-- grey line to separate -->
+# Tips and Best Practices to Create Email Templates
+
+---
 
 <!-- Subheading -->Email Template Sizing Best Practices
 
@@ -11,4 +12,4 @@ Template Design Tips:
    - Email Header: up to 200px  
    - Important details: within the first 350px in height  
    - Use Responsive Designs  
-   - Avoid using images to display all content 
+   - Avoid using images to display all content
