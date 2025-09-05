@@ -19,5 +19,6 @@ up to 120kb
 
 
 ### CSS Tips
-```<!--[if mso]><![endif]-->: Statement to show elements only in Outlook only
+```html
+<!--[if mso]><![endif]-->: Statement to show elements only in Outlook only
 mso-hide: all;: CSS property to hide an element in Outlook
